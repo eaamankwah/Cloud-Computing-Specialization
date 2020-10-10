@@ -37,7 +37,11 @@ Cloud Networking
 ## Certificate of Completion
 
 [Course 1](https://github.com/eaamankwah/Certificates/blob/main/Coursera1_Cloud-Computing-Concepts-Part1.pdf)
-[Course 2](https://github.com/eaamankwah/Certificates/blob/main/Coursera2_Cloud-Computing-Concepts-Part2.pdf)
+
+[Course 2](https://github.com/eaamankwah/Certificates/blob/main/Coursera2_Cloud-Computing-Concepts-Part%202.pdf)
+
 [Course 3](https://github.com/eaamankwah/Certificates/blob/main/Coursera3_Cloud-Computing-Applications-Part1.pdf)
+
 [Course 4](https://github.com/eaamankwah/Certificates/blob/main/Coursera4_Cloud-Computing-Applications-Part2.pdf)
+
 [Course 5](https://github.com/eaamankwah/Certificates/blob/main/Coursera5_Cloud-Networking.pdf.pdf)
